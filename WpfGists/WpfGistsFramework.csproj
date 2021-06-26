@@ -116,10 +116,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\GistApi\GistsApi.csproj">
-      <Project>{d5758ade-8947-47b5-ae06-3e11daebad06}</Project>
-      <Name>GistsApi</Name>
-    </ProjectReference>
     <ProjectReference Include="..\WpfGists.ViewModel\WpfGists.ViewModel.csproj">
       <Project>{7ae9abcf-dbc9-4840-9955-eaaf333f9642}</Project>
       <Name>WpfGists.ViewModel</Name>

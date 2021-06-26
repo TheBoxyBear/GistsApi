@@ -50,10 +50,6 @@
     <Compile Include="GistListItem.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\GistApi\GistsApi.csproj">
-      <Project>{d5758ade-8947-47b5-ae06-3e11daebad06}</Project>
-      <Name>GistsApi</Name>
-    </ProjectReference>
     <ProjectReference Include="..\WpfGists.Utility\WpfGists.Utility.csproj">
       <Project>{d8564ae3-0220-4a9d-88c7-9ed2c8f309cf}</Project>
       <Name>WpfGists.Utility</Name>
